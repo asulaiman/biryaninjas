@@ -927,6 +927,11 @@ a.read-more {
     width: 30%;
 }
 
+.food-menu-details p.cookie-pie span {
+    width: 100%;
+}
+
+
 .food-menu-details h3 span {
     color: #ca3d26;
     float: right;
